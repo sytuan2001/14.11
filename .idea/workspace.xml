@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c87156ca-1549-4c45-bf91-5dc664be74aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/baitap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.bai1.html.executor": "Run",
+    "JavaScript Debug.bai4.html.executor": "Run",
     "JavaScript Debug.baitap2.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -69,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763085269844</updated>
-      <workItem from="1763085270868" duration="2487000" />
+      <workItem from="1763085270868" duration="3218000" />
     </task>
     <servers />
   </component>
